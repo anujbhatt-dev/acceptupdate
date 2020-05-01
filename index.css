@@ -192,9 +192,11 @@ textarea{
   border-radius: 4px 4px 0 0;
   line-height: 2;
   font-size: 13px;
+  padding-bottom: 5px;
 }
 .beta2{
   border-radius: 0 0 4px 4px;
   line-height: 2;
     font-size: 13px;
+  padding-bottom: 5px;
 }
